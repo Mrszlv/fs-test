@@ -88,4 +88,4 @@ cd fs-test
 
 ## Demo
 
-Loom: https://www.loom.com/share/75a005f710e44452878e2828a9b9864e
+Watch on Loom → [https://www.loom.com/share/75a005f710e44452878e2828a9b9864e](https://www.loom.com/share/75a005f710e44452878e2828a9b9864e)

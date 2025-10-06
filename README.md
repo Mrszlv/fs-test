@@ -70,6 +70,8 @@ and an **admin dashboard** for managing orders and menu items.
 
 ## Installation
 
+STRIPE_SECRET_KEY="your_stripe_secret_key_here"
+
 ### Prerequisites
 
 - Node.js ≥ 18
@@ -83,3 +85,7 @@ and an **admin dashboard** for managing orders and menu items.
 git clone https://github.com/Mrszlv/fs-test.git
 cd fs-test
 ```
+
+## Demo
+
+Loom: https://www.loom.com/share/75a005f710e44452878e2828a9b9864e
